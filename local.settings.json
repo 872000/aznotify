@@ -1,0 +1,1 @@
+{"IsEncrypted":false,"Values":{"AZNOTIFY_SENDER":"console","AzureWebJobsStorage":"UseDevelopmentStorage=true","FUNCTIONS_WORKER_RUNTIME":"python","NOTIFICATION_POISON_QUEUE_NAME":"notifications-poison","NOTIFICATION_QUEUE_NAME":"notifications"}}
